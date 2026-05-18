@@ -14,7 +14,7 @@ printf "\e[1;92m | |      / /\ \ | |\/| |\e[0m\e[1;77m |  ___/|  __  | | |  \___
 printf "\e[1;92m | |____ / ____ \| |  | |\e[0m\e[1;77m | |    | |  | |_| |_ ____) | |  | |\e[0m\n"
 printf "\e[1;92m  \_____/_/    \_\_|  |_|\e[0m\e[1;77m |_|    |_|  |_|_____|_____/|_|  |_|\e[0m\n"
 printf " \e[1;93m CamPhish Ver 1.7    mdarif76769\e[0m \n"
-printf " \e[1;77m Create By Sathish | GitHub/Mraprguild\e[0m \n"
+printf " \e[1;77m Create By Sathish | GitHub/mdarif76769\e[0m \n"
 
 printf "\n"
 
