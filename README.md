@@ -1,4 +1,4 @@
-
+#
 # CamPhish-PRO
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 
@@ -56,4 +56,3 @@ bash camphish.sh
 <p><b>Version: 1.3:</b> Fix ngrok direct link</p>
 
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
