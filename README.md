@@ -1,3 +1,4 @@
+
 # CamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 
@@ -36,8 +37,8 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/Mraprguild/CamPhish
-cd CamPhish
+git clone https://github.com/Mraprguild/CamPhish-PRO
+cd CamPhish-PRO
 bash camphish.sh
 ```
 
